@@ -1,0 +1,2 @@
+# odev.sql
+sql ödevi
